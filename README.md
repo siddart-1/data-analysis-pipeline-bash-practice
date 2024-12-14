@@ -1,5 +1,6 @@
 ## Building a Data Analysis pipeline using a shell script tutorial
 adapted from [Software Carpentry](http://software-carpentry.org/)
+Updated on Dec14,2024
 
 This example data analysis project analyzes the word count for all words in 4
 novels. It reports the top 10 most occurring words in each book in a [report](doc/count_report.qmd).
